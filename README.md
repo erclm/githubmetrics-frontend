@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# GitHubMetrics - Frontend
 
+This project was created as a demo for the simple deployment of [Railway](https://railway.com/). 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
